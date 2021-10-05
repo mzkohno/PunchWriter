@@ -6,7 +6,7 @@
 
 # Version
 2021.10.6<br>
-version 0.1<br>
+version 0.1.0<br>
 
 # Requirement 
 * mediapipe 0.8.6 or later
