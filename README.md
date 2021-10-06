@@ -16,6 +16,10 @@ version 0.1.0<br>
 # 動作を確認したOS
 Ubuntu 20.04.3 LTS (64bit)
 
+macOSでは動作しない
+参考：AppleのUIフレームワークでは、メインスレッド以外からUIを表示することを許可していない
+https://developer.apple.com/forums/thread/659010
+
 # 最初の準備
 
 PunchWriter.py コード中のグローバル変数 NIHONGO_FONT を、お使いの環境に合わせて変更してください。<br>
