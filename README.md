@@ -59,4 +59,4 @@ ESCキー押下でカメラキャプチャを終了します。<br>
 大野 瑞紀（https://qiita.com/Moh_no）
  
 # License 
-検討中
+PunchWriter is under Apache-2.0 License.
